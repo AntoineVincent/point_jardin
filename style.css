@@ -1,0 +1,32 @@
+body
+{
+	background-color: #848C85;
+	background-size: cover;
+
+}
+img
+{
+	display: block;
+	width: 20%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+li {
+	display: inline;
+	
+}
+
+a
+{
+	color :green;
+	
+}
+#gauche {
+	float: left;
+	
+
+}
+#droite {
+	float: right;
+}
