@@ -12,6 +12,9 @@ img
 	margin-right: auto;
 
 }
+ul {
+	display: inline;
+}
 li {
 	display: inline;
 	
@@ -19,7 +22,7 @@ li {
 
 a
 {
-	color :green;
+	color: rgba(123,194,66,1);
 	
 }
 #gauche {
