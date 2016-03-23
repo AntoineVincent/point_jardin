@@ -40,3 +40,23 @@ h3 {
 	border-top:solid rgba(123,194,66,1) 2px;
 	height: 20px;
 }
+footer {
+	background-color: rgba(123,194,66,1);
+	background-size: cover;
+	border:solid rgba(123,194,66,1) 1px;
+	height: 25px;
+	margin-left: 5px;
+	margin-right: 5px;
+	border-radius: 5px;
+	color:#6B4030;
+
+}
+.footcont {
+	text-align: right;
+}
+.newsletter {
+	text-align: center;
+}
+.builtby {
+	text-align: center;
+}
