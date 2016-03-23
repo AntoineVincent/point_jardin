@@ -29,3 +29,6 @@ a {
 {
 	border-bottom:solid rgba(0,0,0,0.6) 2px;
 }
+.logo {
+	text-align:center;
+}
