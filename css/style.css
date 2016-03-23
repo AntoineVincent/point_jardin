@@ -60,3 +60,13 @@ footer {
 .builtby {
 	text-align: center;
 }
+.left {
+	background: url(../images/herbe.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 40px;
+
+}
+.vide {
+	height: 40px;
+}
