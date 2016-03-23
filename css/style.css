@@ -1,0 +1,16 @@
+body
+{
+	background-color: #848C85;
+	background-size: cover;
+
+}
+img{
+	display: inline-block;
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a {
+	color: rgba(123,194,66,1);
+}
