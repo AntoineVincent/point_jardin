@@ -28,7 +28,6 @@
 							<p class="middle">
 								<a href="page7.html">Qui</a>
 							</p>
-							<p class="test">Paul et Laurentine</br> vous accueillent dans votre nouveau point de vente de matériaux pour l’aménagement du jardin.</p>
 						</div>
 						<div class="col-md-offset-1 col-md-2">
 							<p class="right">

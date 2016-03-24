@@ -69,22 +69,14 @@ footer {
 }
 .middle {
 	background: url(../images/quii.png);
+	background-size: cover;
 	height: 185px;
 	border-radius: 100px;
 	border:solid rgba(123,194,66,0.8) 2px;
-
-}
-.test {
-	opacity: 0;
-	margin-top: -170px;
-	color: rgba(123,194,66,1);
-
-}
-.test:hover {
-	opacity: 1;
 }
 .right {
 	background: url(../images/contact2.png);
+	background-size: cover;
 	height: 185px;
 	border-radius: 100px;
 	border:solid rgba(123,194,66,0.8) 2px;
@@ -97,12 +89,14 @@ footer {
 }
 .cubel {
 	background: url(../images/petite_carte.png);
+	background-size: cover;
 	height: 185px;
 	border-radius: 100px;
 	border:solid rgba(123,194,66,0.8) 2px;
 }
 .cuber {
 	background: url(../images/vos_avis.png);
+	background-size: cover;
 	height: 185px;
 	border-radius: 100px;
 	border:solid rgba(123,194,66,0.8) 2px;
