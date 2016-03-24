@@ -73,21 +73,22 @@ footer {
 	background-size: cover;
 	height:185px;
 	border-radius: 100px;
-	border:solid rgba(123,194,66,0.8) 2px;
+	border:solid rgba(123,194,66,0.9) 2px;
+	position: relative;
 }
 .middle {
 	background: url(../images/quii.png);
 	background-size: cover;
 	height: 185px;
 	border-radius: 100px;
-	border:solid rgba(123,194,66,0.8) 2px;
+	border:solid rgba(123,194,66,0.9) 2px;
 }
 .right {
 	background: url(../images/contact2.png);
 	background-size: cover;
 	height: 185px;
 	border-radius: 100px;
-	border:solid rgba(123,194,66,0.8) 2px;
+	border:solid rgba(123,194,66,0.9) 2px;
 }
 .vide {
 	height: 40px;
@@ -100,14 +101,14 @@ footer {
 	background-size: cover;
 	height: 185px;
 	border-radius: 100px;
-	border:solid rgba(123,194,66,0.8) 2px;
+	border:solid rgba(123,194,66,0.9) 2px;
 }
 .cuber {
 	background: url(../images/vos_avis.png);
 	background-size: cover;
 	height: 185px;
 	border-radius: 100px;
-	border:solid rgba(123,194,66,0.8) 2px;
+	border:solid rgba(123,194,66,0.9) 2px;
 }
 .link {
 	font-size: 28px;
@@ -129,4 +130,35 @@ footer {
 iframe {
 	border: solid rgba(123,194,66,0.8) 4px;
 	border-radius: 5px;
+}
+.fond {
+	position: absolute;
+	background-color: white;
+	opacity: 0.3;
+	height: 185px;
+	width: 189.667px;
+	top: 0%;
+	left:0%;
+	border-radius:100px;
+	margin-left: 15px;
+}
+.text {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	top: 0%;
+	left:0%;
+	text-align: center;
+	padding-top: 75px;
+
+}
+.textt {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	top: 0%;
+	left:0%;
+	text-align: center;
+	padding-top: 45px;
+
 }

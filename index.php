@@ -21,17 +21,29 @@
 					<div class="row">
 						<div class="col-md-offset-2 col-md-2">
 							<p class="left metalink">
-								<a href="page6.html"><span class="link">Nouveautés</span></a>
+								<div class="fond"></div>
+								<div class="text">
+									<a href="page6.html"><span class="link">Nouveautés</span></a>
+								</div>
 							</p>
 						</div>
 						<div class="col-md-offset-1 col-md-2">
 							<p class="middle metalinkk">
-								<a href="page7.html"><span class="link">Qui sommes nous</span></a>
+								<div class="fond"></div>
+								<div class="textt">
+									<a href="page7.html">
+										<p><span class="link">Qui</span></p>
+										<p><span class="link">sommes nous</span></p>
+									</a>
+								</div>
 							</p>
 						</div>
 						<div class="col-md-offset-1 col-md-2">
 							<p class="right metalink">
-								<a href="page8.html"><span class="link">Contact</span></a>
+								<div class="fond"></div>
+								<div class="text">
+									<a href="page8.html"><span class="link">Contact</span></a>
+								</div>
 							</p>
 						</div>
 						<div class="col-md-2"></div>
@@ -55,12 +67,18 @@
 					<div class="row cube">
 						<div class="col-md-offset-3 col-md-2">
 							<p class="cubel metalink">
-								<a href="page9.php"><span class="link">Carte</span></a>
+								<div class="fond"></div>
+								<div class="text">
+									<a href="page9.php"><span class="link">Carte</span></a>
+								</div>
 							</p>
 						</div>
 						<div class="col-md-offset-2 col-md-2">
 							<p class="cuber metalink">
-								<a href="page10.html"><span class="link">Vos Avis</span></a>
+								<div class="fond"></div>
+								<div class="text">
+									<a href="page10.html"><span class="link">Vos Avis</span></a>
+								</div>
 							</p>
 						</div>
 						<div class="col-md-3"></div>
