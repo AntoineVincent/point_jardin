@@ -1,7 +1,13 @@
+@font-face
+			{
+				font-family: 'Grov';
+				src: url('../font/font/grov_alphabet_regular.otf');
+			}
 body
 {
 	background-color: #848C85;
 	background-size: cover;
+	font-family: 'Grov';
 
 }
 img{
@@ -16,15 +22,16 @@ h3 {
 	margin-top: 0;
 	position: relative;
 	margin-left: 15px;
+	font-size: 30px;
 }
 .menu
 {
 	margin-top:81px;
-	font-size: 19px;
+	font-size: 28px;
 }
 .menuu {
 	margin-top:81px;
-	font-size: 19px;
+	font-size: 28px;
 }
 
 .menu a
