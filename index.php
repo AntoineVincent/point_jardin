@@ -13,7 +13,6 @@
 					include('./header.php')
 				?>
 			</header>
-				<h3>ACCUEIL</h3>
 			<div class="col-md-offset-1 col-md-10 barre"></div>
 			<section>
 					<div class="row vide">
