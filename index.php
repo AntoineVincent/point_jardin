@@ -20,7 +20,7 @@
 					</div>
 					<div class="row">
 						<div class="col-md-offset-2 col-md-2">
-							<p class="left test"
+							<p class="left test">
 								<a href="page6.html">Mise en avant</a>
 							</p>
 						</div>
