@@ -100,9 +100,15 @@ footer {
 	border-radius: 100px;
 	border:solid rgba(123,194,66,0.8) 2px;
 }
-.test {
+.link {
+	font-size: 28px;
+	font-weight: bold;
+}
+.metalink {
 	text-align: center;
 	padding-top: 75px;
-	font-size: 25px;
-	color: #6B4030;
+}
+.metalinkk {
+	text-align: center;
+	padding-top: 60px;
 }
