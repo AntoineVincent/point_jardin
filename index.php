@@ -21,12 +21,12 @@
 					<div class="row">
 						<div class="col-md-offset-2 col-md-2">
 							<p class="left test">
-								<a href="page6.html">Mise en avant</a>
+								<a href="page6.html">Nouveautés</a>
 							</p>
 						</div>
 						<div class="col-md-offset-1 col-md-2">
 							<p class="middle test">
-								<a href="page7.html">Qui</a>
+								<a href="page7.html">Qui sommes nous</a>
 							</p>
 						</div>
 						<div class="col-md-offset-1 col-md-2">
