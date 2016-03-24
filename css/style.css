@@ -119,3 +119,7 @@ footer {
 	color: rgba(0,0,0,0.8);
 	font-weight: bold;
 }
+iframe {
+	border: solid rgba(123,194,66,0.8) 4px;
+	border-radius: 5px;
+}
