@@ -20,18 +20,18 @@
 					</div>
 					<div class="row">
 						<div class="col-md-offset-2 col-md-2">
-							<p class="left test">
-								<a href="page6.html">Nouveautés</a>
+							<p class="left metalink">
+								<a href="page6.html"><span class="link">Nouveautés</span></a>
 							</p>
 						</div>
 						<div class="col-md-offset-1 col-md-2">
-							<p class="middle test">
-								<a href="page7.html">Qui sommes nous</a>
+							<p class="middle metalinkk">
+								<a href="page7.html"><span class="link">Qui sommes nous</span></a>
 							</p>
 						</div>
 						<div class="col-md-offset-1 col-md-2">
-							<p class="right test">
-								<a href="page8.html">Contact</a>
+							<p class="right metalink">
+								<a href="page8.html"><span class="link">Contact</span></a>
 							</p>
 						</div>
 						<div class="col-md-2"></div>
@@ -54,13 +54,13 @@
 				</div>
 					<div class="row cube">
 						<div class="col-md-offset-3 col-md-2">
-							<p class="cubel test">
-								<a href="page9.html">Carte</a>
+							<p class="cubel metalink">
+								<a href="page9.html"><span class="link">Carte</span></a>
 							</p>
 						</div>
 						<div class="col-md-offset-2 col-md-2">
-							<p class="cuber test">
-								<a href="page10.html">Vos Avis</a>
+							<p class="cuber metalink">
+								<a href="page10.html"><span class="link">Vos Avis</span></a>
 							</p>
 						</div>
 						<div class="col-md-3"></div>
