@@ -27,5 +27,5 @@
 	</div>
 </div>
 <div class="row">
-	<div class="col-md-12"><h3>ACCUEIL</h3></div>
+	<div class="col-md-12"><a href="index.php"><h3>ACCUEIL</h3></a></div>
 </div>
