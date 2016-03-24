@@ -21,7 +21,7 @@
 					<div class="row">
 						<div class="col-md-offset-2 col-md-2">
 							<p class="left metalink">
-								<div class="fond"></div>
+								<div class="col-md-12 fond"></div>
 								<div class="text">
 									<a href="page6.html"><span class="link">Nouveautés</span></a>
 								</div>
