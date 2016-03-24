@@ -55,7 +55,7 @@
 					<div class="row cube">
 						<div class="col-md-offset-3 col-md-2">
 							<p class="cubel metalink">
-								<a href="page9.html"><span class="link">Carte</span></a>
+								<a href="page9.php"><span class="link">Carte</span></a>
 							</p>
 						</div>
 						<div class="col-md-offset-2 col-md-2">
