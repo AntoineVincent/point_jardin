@@ -42,10 +42,10 @@
 				<div class="row ">
 					<div class="col-md-offset-2 col-md-3 barre"></div>
 					<div class="col-md-1 barre">
-						<a href="https://www.instagram.com/">Instagram</a>
+						<a href="https://www.instagram.com/"><p class="reso">Instagram</p></a>
 					</div>
 					<div class="col-md-1 barre">
-						<a href="https://www.facebook.com/PointJardin/">Facebook</a>
+						<a href="https://www.facebook.com/PointJardin/"><p class="reso">Facebook</p></a>
 					</div>
 					<div class="col-md-3 barre"></div>
 				</div>

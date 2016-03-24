@@ -48,10 +48,12 @@ footer {
 	margin-left: 5px;
 	border-radius: 5px;
 	color:#6B4030;
+	font-weight: bold;
 
 }
 .footcont {
 	text-align: right;
+	color: #6B4030;
 }
 .newsletter {
 	text-align: center;
@@ -112,4 +114,8 @@ footer {
 .metalinkk {
 	text-align: center;
 	padding-top: 60px;
+}
+.reso {
+	color: rgba(0,0,0,0.8);
+	font-weight: bold;
 }
