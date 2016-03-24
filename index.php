@@ -55,7 +55,7 @@
 					<div class="row cube">
 						<div class="col-md-offset-3 col-md-2">
 							<p class="cubel test">
-								<a href="page9.html">Carte</a>
+								<a href="page9.php">Carte</a>
 							</p>
 						</div>
 						<div class="col-md-offset-2 col-md-2">
