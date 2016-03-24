@@ -20,17 +20,17 @@
 					</div>
 					<div class="row">
 						<div class="col-md-offset-2 col-md-2">
-							<p class="left"
+							<p class="left test"
 								<a href="page6.html">Mise en avant</a>
 							</p>
 						</div>
 						<div class="col-md-offset-1 col-md-2">
-							<p class="middle">
+							<p class="middle test">
 								<a href="page7.html">Qui</a>
 							</p>
 						</div>
 						<div class="col-md-offset-1 col-md-2">
-							<p class="right">
+							<p class="right test">
 								<a href="page8.html">Contact</a>
 							</p>
 						</div>
@@ -54,12 +54,12 @@
 				</div>
 					<div class="row cube">
 						<div class="col-md-offset-3 col-md-2">
-							<p class="cubel">
+							<p class="cubel test">
 								<a href="page9.html">Carte</a>
 							</p>
 						</div>
 						<div class="col-md-offset-2 col-md-2">
-							<p class="cuber">
+							<p class="cuber test">
 								<a href="page10.html">Vos Avis</a>
 							</p>
 						</div>
